@@ -7,6 +7,7 @@
 - @Qualifier
 - @Value
 - @Configuration
+- @ConigurationProperties
 - @Bean
 - @Lazy
 - @Primary
