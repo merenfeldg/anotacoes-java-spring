@@ -1,6 +1,6 @@
 # Spring Boot  
 
-## Anotações importantes
+## Annotations importantes
 - [@Component](./anotacao-component.md)
 - [@Service | @Repository | @Controller | @RestController](./especificacoes-component.md)
 - [@Autowired](./anotacao-autowired.md)
