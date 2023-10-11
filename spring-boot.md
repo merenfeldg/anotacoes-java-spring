@@ -1,6 +1,7 @@
 # Spring Boot  
 
 ## Anotações importantes
+- @Component
 - @Autowired
 - @Qualifier
 - @Value
