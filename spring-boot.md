@@ -3,7 +3,7 @@
 ## Anotações importantes
 - [@Component](./anotacao-component.md)
 - [@Service | @Repository | @Controller | @RestController](./especificacoes-component.md)
-- @Autowired
+- [@Autowired](./anotacao-autowired.md)
 - @Qualifier
 - @Value
 - @Configuration
