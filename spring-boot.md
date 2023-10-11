@@ -2,6 +2,7 @@
 
 ## Anotações importantes
 - [@Component](./anotacao-component.md)
+- @Service | @Repository | @Controller | @RestController
 - @Autowired
 - @Qualifier
 - @Value
