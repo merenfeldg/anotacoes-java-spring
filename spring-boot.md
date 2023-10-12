@@ -6,7 +6,7 @@
 - [@Autowired](./anotacao-autowired.md)
 - [@Qualifier](./anotacao-qualifier.md)
 - [@Value](./anotacao-value.md)
-- @Configuration
+- [@Configuration](./anotacao-configuration)
 - @ConfigurationProperties
 - @Bean
 - @Primary
