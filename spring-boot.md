@@ -6,8 +6,8 @@
 - [@Autowired](./anotacao-autowired.md)
 - [@Qualifier](./anotacao-qualifier.md)
 - [@Value](./anotacao-value.md)
-- [@Configuration](./anotacao-configuration)
-- @ConfigurationProperties
+- [@Configuration](./anotacao-configuration.md)
+- [@ConfigurationProperties](./anotacao-configurationProperties.md)
 - @Bean
 - @Primary
 - @Lazy
