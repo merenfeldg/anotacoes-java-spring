@@ -1,6 +1,6 @@
 # @Qualifier
 Quando eu tenho duas ou mais classes ou métodos que implementam ou retornam o mesmo objeto o Spring não sabe qual delas injetar. A anotattion @Qualifer então recebe o nome de qual implementação que queremos injetar.
-> Essa anotattion sempre embaixo do @Autowired e a primeiro caracter do nome passado tem que ser em minúsculo
+> Essa annotation sempre embaixo do @Autowired e a primeiro caracter do nome passado tem que ser em minúsculo
 <br>
 
 ### Exemplo: 
@@ -19,7 +19,7 @@ public class PessoaServiceImplV2 implements PessoaService{
     (...)
 }
 ```
-Usei o mesmo exemplo da explicação da anotattion @Autowired porém agora na classe Controller eu preciso injetar um PessoaService só que tenho a implementação V1 e a V2, para dizer qual que eu quero vou usar o @Qualifier
+Usei o mesmo exemplo da explicação da annotation @Autowired porém agora na classe Controller eu preciso injetar um PessoaService só que tenho a implementação V1 e a V2, para dizer qual que eu quero vou usar o @Qualifier
 ```java
 @RestController
 @RequestMapping("/pessoas")
