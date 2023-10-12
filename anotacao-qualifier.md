@@ -1,5 +1,5 @@
 # @Qualifier
-Quando eu tenho duas ou mais classes ou métodos que implementam ou retornam o mesmo objeto o Spring não sabe qual delas injetar. A anotattion @Qualifer então recebe o nome de qual implementação que queremos injetar.
+Quando eu tenho duas ou mais classes ou métodos que implementam ou retornam o mesmo objeto o Spring não sabe qual delas injetar. A annotation @Qualifer então recebe o nome de qual implementação que queremos injetar.
 > Essa annotation sempre embaixo do @Autowired e a primeiro caracter do nome passado tem que ser em minúsculo
 <br>
 
