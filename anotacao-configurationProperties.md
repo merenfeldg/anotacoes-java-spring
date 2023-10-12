@@ -1,4 +1,4 @@
-# ConfigurationProperties
+# @ConfigurationProperties
 Uma forma mais simples de injetar valores em variáveis do que a anotação @Value. Criamos uma classe que vai receber todos os valores desejados no arquivo .properties
 > Para dar certo esses valores precisam ter o mesmo prefixo
 <br>
