@@ -9,8 +9,8 @@
 - [@Configuration](./anotacao-configuration.md)
 - [@ConfigurationProperties](./anotacao-configurationProperties.md)
 - [@Bean](./anotacao-bean.md)
-- @Primary
-- @Lazy
-- @Scope
-- @PropertySource
-- @Profile
+- [@Primary](./anotacao-primary.md)
+- [@Lazy](./anotacao-lazy.md)
+- [@Scope](./anotacao-scope.md)
+- [@PropertySource](./anotacao-propertySource.md)
+- [@Profile](./anotacao-profile.md)
