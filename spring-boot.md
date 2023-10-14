@@ -8,7 +8,7 @@
 - [@Value](./anotacao-value.md)
 - [@Configuration](./anotacao-configuration.md)
 - [@ConfigurationProperties](./anotacao-configurationProperties.md)
-- @Bean
+- [@Bean](./anotacao-bean.md)
 - @Primary
 - @Lazy
 - @Scope
