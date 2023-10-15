@@ -1,7 +1,7 @@
 # Spring Boot  
 
 ## API 
-- [Definição](./api-definicao)
+- [Definição](./api-definicao.md)
 
 ## Annotations importantes
 - [@Component](./anotacao-component.md)
