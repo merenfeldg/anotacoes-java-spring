@@ -9,6 +9,11 @@ Um método seguro é quando não altera o estado do meu servidor, por exemplo o 
 Um método idempotente é quando uma requisição é feita várias vezes ele sempre vai retornar o mesmo resultado.
 <br>
 <br>
+
+<div align="center">
+    <img src="https://github.com/merenfeldg/anotacoes-java-spring/assets/129122790/32421052-6602-4e89-804d-4b13b8f8b399">
+</div>
+
 # GET 
 - Consulta um recurso.
 - Seguro.
