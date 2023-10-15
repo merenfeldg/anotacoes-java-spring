@@ -2,6 +2,7 @@
 
 ## API 
 - [Definição](./api-definicao.md)
+- [Métodos HTTP](./api-metodos.md)
 
 ## Annotations importantes
 - [@Component](./anotacao-component.md)
