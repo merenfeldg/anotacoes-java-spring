@@ -15,5 +15,5 @@
 - [@Primary](./anotacao-primary.md)
 - [@Lazy](./anotacao-lazy.md)
 - [@Scope](./anotacao-scope.md)
-- [@PropertySource](./anotacao-propertySource.md)
+- [@PropertySource](./anotacoes-propertySource.md)
 - [@Profile](./anotacao-profile.md)
