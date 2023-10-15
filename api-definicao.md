@@ -22,6 +22,5 @@ Para fazer a comunicação entre máquinas diferentes usamos o protocolo HTTP qu
 O servidor vai responder(Response) usando um JSON ou um XML, é mais comum reponder com JSON.
 <br>
 <div align = "center">
-    <img src="https://github.com/merenfeldg/anotacoes-java-spring/assets/129122790/2c2c42f1-de1f-44e4-9b4c-9428fad555c3">
-"/>
+    <img src="https://github.com/merenfeldg/anotacoes-java-spring/assets/129122790/555b0119-47ae-4c09-8290-696a9246b9e3"/>
 </div>
