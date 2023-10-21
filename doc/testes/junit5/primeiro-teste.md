@@ -5,7 +5,7 @@ Cada teste precisa receber a anotação @Test
 
 <br>
 
-### Antes de tudo como eu nomeio os meus testes?
+## Antes de tudo como eu nomeio os meus testes?
 - Começar com test
 - Colocar o nome do método (testImprimir)
 - O que você vai fazer
@@ -24,7 +24,7 @@ void testCalculadora_MetodoSomar() {
 }
 ```
 
-### Como organizar bem os testes 
+## Como organizar bem os testes 
 - **GIVEN:** Onde declaramos nossas variáveis.
 - **WHEN:** Onde o método que vai ser testado.
 - **THEN:** Onde vai validar o retorno e verificando o comportamento se é o mesmo que a gente esperava.
