@@ -6,3 +6,4 @@
 
 ## JUnit5
 - [Meu primeiro teste unitário](./doc/testes/junit5/primeiro-teste.md)
+- [Assertions](./doc/testes/junit5/assertions.md)
